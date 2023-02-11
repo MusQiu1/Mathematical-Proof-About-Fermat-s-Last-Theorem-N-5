@@ -17,6 +17,10 @@ About Fermat-s-Last-Theorem-N-5
 ![4875E98D-3FF7-4EB8-8688-02D175E8FE46](https://user-images.githubusercontent.com/121736407/218123523-4bb1984e-d6bd-4f59-9c1d-3008d1d45e0a.jpeg)
 
 
+补充存在公约数的情况
+
+![33AF8521-DDB4-45A1-9CD5-EA157F9F35D2](https://user-images.githubusercontent.com/121736407/218246803-10a57395-1a49-45a4-9ee2-02008f739e33.jpeg)
+![780BACCF-5856-49C2-9E8F-F08443F3DFE3](https://user-images.githubusercontent.com/121736407/218246819-491d701e-1f5e-45b2-8b40-a59386b73364.jpeg)
 
 
 
